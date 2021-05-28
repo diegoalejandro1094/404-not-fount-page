@@ -6,3 +6,16 @@
   box-sizing: border-box;
 }
 
+:root{
+  --grey-color: #333333;
+  --white-color: #FFFFFF;
+  --normal-weight: 400;
+  --bold-weight: 700;
+  --space-mono-font: 'Space Mono', monospace;
+  --inconsolata-font: 'Inconsolata', monospace;
+  --montserrat-font: 'Montserrat', sans-serif;
+}
+
+.back__button{
+  color:
+}
